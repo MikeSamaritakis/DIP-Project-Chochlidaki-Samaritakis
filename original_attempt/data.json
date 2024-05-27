@@ -1,0 +1,25 @@
+[
+    {
+        "filename": "incision001.jpg",
+        "incision_polyline": [
+            [
+                109.47,
+                19.32
+            ],
+            [
+                111.88,
+                42.19
+            ]
+        ],
+        "crossing_positions": [
+            13.8,
+            18.1,
+            19.0
+        ],
+        "crossing_angles": [
+            87.1,
+            92.3,
+            75.0
+        ]
+    }
+]
